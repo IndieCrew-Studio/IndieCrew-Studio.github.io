@@ -1,0 +1,24 @@
+languageCode = "vi"
+languageName = "Tiếng Việt"
+displayName = "VN"
+isoCode = "vn"
+weight = 1
+rtl = false
+
+title = "IndieCrew Studio"
+logo = "img/logo.png"
+description = "IndieCrew Studio"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Red Blowfish"
+  image = "img/avatar.png"
+  headline = "This is my website with my links"
+  bio = "A little bit about you"
+   links = [
+     { link = "https://nunocoracao.github.io/blowfish/" },
+     { github = "https://github.com/nunocoracao/blowfish" },
+     { twitter = "https://twitter.com/burufugu" }
+   ]
