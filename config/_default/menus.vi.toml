@@ -11,32 +11,32 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
+  name = "Bài đăng"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Tags"
+  name = "Thẻ"
   pageRef = "tags"
   weight = 20
 
-[[main]]
-  identifier = "web"
-  pre = "link"
-  url = "https://indiecrew-studio.github.io/"
-  weight = 40
+# [[main]]
+#  identifier = "web"
+#  pre = "link"
+#  url = "https://indiecrew-studio.github.io/"
+#  weight = 40
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://indiecrew-studio.github.io/"
-  weight = 50
+#[[main]]
+#  identifier = "github"
+#  pre = "github"
+#  url = "https://indiecrew-studio.github.io/"
+#  weight = 50
 
-[[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://indiecrew-studio.github.io/"
-  weight = 60
+#[[main]]
+#  identifier = "twitter"
+#  pre = "twitter"
+#  url = "https://indiecrew-studio.github.io/"
+#  weight = 60
 
 
 # -- Footer Menu --
@@ -45,6 +45,6 @@
 
 
  [[footer]]
-   name = "Tags"
+   name = "Thẻ"
    pageRef = "tags"
    weight = 10
