@@ -16,7 +16,7 @@ mainSections = ["posts"]
 # robots = ""
 
 [header]
-  layout = "fixed" # valid options: basic, fixed
+  layout = "basic" # valid options: basic, fixed
 
 [footer]
  # showMenu = true
@@ -29,9 +29,9 @@ mainSections = ["posts"]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/cover.png" # used in: hero, and card
   showRecent = true
-  showRecentItems = 3
+  showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "/blowfish_artist/posts"
+  showMoreLinkDest = "/posts/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -41,7 +41,7 @@ mainSections = ["posts"]
   #showViews = true
   #showLikes = true
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background
   showBreadcrumbs = true

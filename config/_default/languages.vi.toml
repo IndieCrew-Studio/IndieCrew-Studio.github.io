@@ -13,12 +13,7 @@ description = "IndieCrew Studio"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Red Blowfish"
+  name = "IndieCrew Studio"
   image = "img/avatar.png"
-  headline = "This is my website with my links"
+  headline = "Vài dòng link tinh"
   bio = "A little bit about you"
-   links = [
-     { link = "https://nunocoracao.github.io/blowfish/" },
-     { github = "https://github.com/nunocoracao/blowfish" },
-     { twitter = "https://twitter.com/burufugu" }
-   ]

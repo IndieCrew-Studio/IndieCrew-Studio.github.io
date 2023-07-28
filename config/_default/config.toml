@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://your_domain.com/"
+baseURL = "https://indiecrew-studio.github.io/"
 defaultContentLanguage = "vi"
 
 enableRobotsTXT = true
@@ -16,9 +16,9 @@ buildFuture = false
 # googleAnalytics = "G-XXXXXXXXX"
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
+  tag = "Thẻ"
+  category = "Chuyên mục"
+  author = "Tác giả"
   series = "series"
 
 [sitemap]
