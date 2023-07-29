@@ -2,7 +2,7 @@
 title: "IC Clothes Addon: 1.1"
 summary: "Đôi khi việc thay đổi quần áo cho nhân vật bạn yêu thích rất phức tạp và tốn thời gian ? Hay chỉ đơn thuần là bạn muốn có thêm trang phục để mặc và nhập vai cùng bạn bè ? Vâng, đây là addon dành cho bạn."
 categories: ["Post","Blog",]
-tags: ["Role Playing","decoration","survival",""]
+tags: ["Role-Playing","decoration","survival"]
 #externalUrl: ""
 #showSummary: true
 date: 2023-07-28

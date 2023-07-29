@@ -1,0 +1,5 @@
+# config/_default/taxonomies.toml
+
+Role-Playing = "Role Playing"
+decoration = "Decoration"
+survival = "survival"
