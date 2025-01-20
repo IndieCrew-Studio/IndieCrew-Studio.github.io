@@ -64,13 +64,13 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
-      - name: Push to gh_pages branch
-        run: |
-          git config --global user.name 'BachMacThanh'
-          git config --global user.email 'BachMacThanh@example.com'
-          git add public/*
-          git commit -m 'Deploy to gh_pages branch'
-          git push origin HEAD:gh_pages
+      - name: Push to GitHub Pages branch
+
+        uses: ftnext/action-push-ghpages@v1.0.0
+        with:
+          build_dir: public
+          github_token: ${{ secrets.TOKEN }}
+                
 
   # Deployment job
   deploy:
