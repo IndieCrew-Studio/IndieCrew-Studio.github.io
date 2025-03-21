@@ -20,6 +20,11 @@
   pageRef = "tags"
   weight = 20
 
+[[main]]
+  name = "Organization"
+  pageRef = "organization"
+  weight = 30
+
 # [[main]]
 #  identifier = "web"
 #  pre = "link"
