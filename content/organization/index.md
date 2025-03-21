@@ -6,11 +6,10 @@ title: "Organization Information"
 IndieCrew Studio
 
 ## Address
-123 Indie Street, Indie City, Indie Country
+Tan Hoa, Thai Nguyen, Thai Nguyen, 249701, VN
 
 ## Contact Information
-Email: contact@indiecrew-studio.com
-Phone: +1234567890
+Email: help@250825.xyz
 
 ## Domain
-[https://indiecrew-studio.github.io](https://indiecrew-studio.github.io)
+[250825.xyz](250825.xyz)
