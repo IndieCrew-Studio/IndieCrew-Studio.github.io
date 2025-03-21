@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://250825.xyz/sitemap.xml
